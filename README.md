@@ -9,9 +9,12 @@ Despite its strong reputation and high visitor satisfaction, the museum lacked a
 
 The key challenges were:
 
-Understanding overall visitor sentiment across multiple platforms
-Identifying recurring issues affecting visitor experience
-Comparing performance with similar institutions
-Translating feedback into actionable improvements
+•	Understanding overall visitor sentiment across multiple platforms
+
+•	Identifying recurring issues affecting visitor experience
+
+•	Comparing performance with similar institutions
+
+•	Translating feedback into actionable improvements
 
 The objective of this project was to transform unstructured feedback data into meaningful insights to support strategic decision-making.
