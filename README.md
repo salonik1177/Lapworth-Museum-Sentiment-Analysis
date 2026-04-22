@@ -235,7 +235,7 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
 🔗 [Analytics Dashboard](https://public.tableau.com/views/LapworthMuseumDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <p align="center"> 
-<img src="Dashboard/Dashboard.png" width="600">
+<img src="Dashboard/Dashboard.png" width="650">
 </p>
 
 # 
@@ -282,4 +282,18 @@ global outreach.
 •	Expand digital engagement through social media and online content to attract wider audiences. 
 
 •	Develop themed exhibitions to create more immersive and memorable visitor experiences. 
+#
+
+### FINAL INSIGHTS & FUTURE DIRECTION
+#
+
+•	Interactive and themed experiences can significantly enhance engagement, making the museum more appealing, especially to younger audiences. 
+
+•	Implementing a feedback loop (NPS) enables continuous monitoring of visitor satisfaction and helps identify areas for improvement in real time. 
+
+•	Focusing on “passive visitors” provides valuable insights, as they represent a large group whose experience can be improved to increase loyalty and recommendations. 
+
+•	Strong staff interaction and visitor touchpoints improve overall experience, highlighting the importance of human engagement alongside exhibits. 
+
+•	Enhancing digital presence and online information is critical, as it directly influences visitor decisions and overall perception before arrival. 
 
