@@ -131,3 +131,5 @@ Internal feedback shows ~75% positive sentiment, indicating strong visitor satis
 <p align="center"> 
 <img src="visuals/Google & TripAdvisor Sentiment Percentage.png" width="550">
 </p>
+
+External platforms show even higher positivity (~85%), reinforcing the museum’s strong reputation.
