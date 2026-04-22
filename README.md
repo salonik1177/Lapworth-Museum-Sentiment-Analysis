@@ -18,3 +18,17 @@ The key challenges were:
 •	Translating feedback into actionable improvements
 
 The objective of this project was to transform unstructured feedback data into meaningful insights to support strategic decision-making.
+
+## Executive Summary:
+This project analyzes visitor feedback from multiple sources, including internal museum surveys, Google Reviews, and TripAdvisor.
+
+Key findings:
+
+•	The museum maintains a strong positive reputation, with approximately 75% positive sentiment internally and 85% positive sentiment externally 
+
+•	Visitors consistently highlight the museum as educational, engaging, and family-friendly 
+
+•	Key areas for improvement include navigation, signage, and parking accessibility 
+
+The project provides actionable recommendations and proposes a sustainable feedback loop using Net Promoter Score (NPS) to support continuous improvement.
+
