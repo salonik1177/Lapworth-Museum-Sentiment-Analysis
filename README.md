@@ -40,23 +40,23 @@ Data Sources:
 
 •	Internal Feedback Dataset 
 
-    ~1,800 survey responses from museum visitors 
+   # ~1,800 survey responses from museum visitors 
 
 •	Google Reviews 
 
-    Public user reviews reflecting real visitor experiences 
+   # Public user reviews reflecting real visitor experiences 
 
 •	TripAdvisor Reviews 
 
-    External platform data for benchmarking sentiment 
+   # External platform data for benchmarking sentiment 
 
 •	Benchmark Data 
 
-    Manchester Museum 
-    Barber Institute of Fine Arts 
+   # Manchester Museum 
+   # Barber Institute of Fine Arts 
     
 •	Visitor Demographics & Global Data 
 
-     Age, gender, and geographic distribution
+   # Age, gender, and geographic distribution
 
 
