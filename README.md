@@ -118,7 +118,7 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
 ### 1. SENTIMENT OVERVIEW
 
 ##
-1. Lapworth Sentiment (Internal Data)
+<b>1. Lapworth Sentiment (Internal Data)</b>
 
 <p align="center"> 
 <img src="visuals/Lapworth Sentiment Percentage.png" width="550">
@@ -127,10 +127,30 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
 <b>Internal feedback shows ~75% positive sentiment, indicating strong visitor satisfaction.</b>
 
 ##
-2. Google + TripAdvisor Sentiment (External Data)
+<b>2. Google + TripAdvisor Sentiment (External Data)</b>
 
 <p align="center"> 
 <img src="visuals/Google & TripAdvisor Sentiment Percentage.png" width="550">
 </p>
 
 <b>External platforms show even higher positivity (~85%), reinforcing the museum’s strong reputation.</b>
+
+##
+### 2. THEMATIC INSIGHTS
+
+##
+<b>Positive Themes</b>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="visuals/Lapworth User Feedback-Positive.png" width="450"/>
+      <br><b>Lapworth Positive Feedback World Cloud</b>
+    </td>
+    <td align="center">
+      <img src="visuals/Google & TripAdvisor Reviews- Positive.png" width="460"/>
+      <br><b>Google & TripAdvisor Positive Feedback World Cloud</b>
+    </td>
+  </tr>
+</table>
+
