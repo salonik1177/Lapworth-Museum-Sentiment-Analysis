@@ -60,4 +60,15 @@ Data Sources:
 
     Age, gender, and geographic distribution
 
+## Methodology :
+
+A structured data analytics approach was applied:
+
+1. Data Preprocessing
+   
+     Removal of stopwords and irrelevant terms
+
+     Lowercasing and text normalization
+
+     Lemmatization for consistency
 
