@@ -114,7 +114,7 @@ A structured data analytics approach was applied:
       Time-based trends 
 #
 
-### Results :
+## Results :
 
 This section presents the key findings derived from sentiment analysis, thematic exploration, and benchmarking of visitor feedback across multiple data sources, including internal museum surveys and external platforms such as Google Reviews and TripAdvisor.  
 
