@@ -117,6 +117,14 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
 
 ### 1. SENTIMENT OVERVIEW
 
+•	Strong positive sentiment across all sources, with ~75% internally and ~85% externally, indicating high visitor satisfaction. 
+
+•	Low negative feedback, suggesting only minor issues impact overall experience. 
+
+•	External reviews are slightly more positive, reinforcing a strong public perception. 
+
+•	Neutral feedback highlights opportunities to further enhance visitor experience.
+
 ##
 <b>1. Lapworth Sentiment (Internal Data)</b>
 
