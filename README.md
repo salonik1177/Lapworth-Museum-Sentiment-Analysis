@@ -162,3 +162,35 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
   </tr>
 </table>
 
+##
+•	Visitors frequently describe the museum as educational, engaging, and informative.
+
+•	The experience is perceived as fun and family-friendly, appealing to a wide audience.
+
+•	Free entry is a key factor contributing to positive sentiment.
+
+##
+<b>Negative Themes</b>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="visuals/Lapworth User Feedback-Negative.png" width="430"/>
+      <br><b>Lapworth Positive Feedback World Cloud</b>
+    </td>
+    <td align="center">
+      <img src="visuals/Google & TripAdvisor Reviews- Negative.png" width="430"/>
+      <br><b>Google & TripAdvisor Positive Feedback World Cloud</b>
+    </td>
+  </tr>
+</table>
+
+##
+•	Navigation and signage issues make the museum difficult to find.
+
+•	Parking challenges are a recurring concern.
+
+•	Some visitors perceive the museum as small or limited in content.
+
+•	Occasional feedback suggests lack of engagement in certain exhibits.
+
