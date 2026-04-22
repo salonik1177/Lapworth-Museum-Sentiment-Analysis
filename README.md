@@ -203,3 +203,28 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
 <img src="visuals/Sentiment score.png" width="490">
 </p>
 
+#
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="visuals/Negative Sentiment for Manchester Museum.png" width="430"/>
+      <br><b>Word cloud showing negative sentiment for Manchester Museum </b>
+    </td>
+    <td align="center">
+      <img src="visuals/Positive Sentiment for Barber Institute.png" width="430"/>
+      <br><b>Word cloud showing positive sentiment for Barber Institute</b>
+    </td>
+  </tr>
+</table>
+
+##
+
+•	Strong comparative performance, with Lapworth matching Manchester Museum and slightly outperforming the Barber Institute in sentiment scores.
+
+•	Exhibit quality outweighs scale, as larger museums face criticism for less engaging or incomplete displays.
+
+•	Specialization is a key strength, with focused museums like Lapworth and Barber driving stronger visitor engagement.
+
+•	Opportunity to improve interaction, particularly through better staff engagement and more interactive experiences.
+
