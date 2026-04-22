@@ -3,8 +3,9 @@
  ## Client Background :
 The Lapworth Museum of Geology is one of the oldest specialist geological museums in the United Kingdom, located at the University of Birmingham. Established in 1880, the museum houses over 250,000 specimens, including fossils, minerals, and geological archives, serving as an important educational and research resource.
 The museum attracts a diverse audience, including students, families, researchers, and international visitors, and plays a key role in promoting geological education and public engagement.
-
+#
 ## Business Problem : 
+#
 Despite its strong reputation and high visitor satisfaction, the museum lacked a structured, data-driven approach to analyzing visitor feedback.
 
 The key challenges were:
@@ -18,8 +19,9 @@ The key challenges were:
 •	Translating feedback into actionable improvements
 
 The objective of this project was to transform unstructured feedback data into meaningful insights to support strategic decision-making.
-
+#
 ## Executive Summary :
+#
 This project analyzes visitor feedback from multiple sources, including internal museum surveys, Google Reviews, and TripAdvisor.
 
 Key findings:
@@ -31,9 +33,9 @@ Key findings:
 •	Key areas for improvement include navigation, signage, and parking accessibility 
 
 The project provides actionable recommendations and proposes a sustainable feedback loop using Net Promoter Score (NPS) to support continuous improvement.
-
+#
 ## Data Structure :
-
+#
 This project integrates multiple datasets to provide a comprehensive analysis:
 
 Data Sources:
@@ -59,9 +61,9 @@ Data Sources:
 -	Visitor Demographics & Global Data 
 
     Age, gender, and geographic distribution
-
+#
 ## Methodology :
-
+#
 A structured data analytics approach was applied:
 
 1. Data Preprocessing
@@ -107,9 +109,9 @@ A structured data analytics approach was applied:
       Geographic insights
  
       Time-based trends 
-
-## Results :
-
+#
+### Results :
+#
 This section presents the key findings derived from sentiment analysis, thematic exploration, and benchmarking of visitor feedback across multiple data sources, including internal museum surveys and external platforms such as Google Reviews and TripAdvisor.  
 
 
