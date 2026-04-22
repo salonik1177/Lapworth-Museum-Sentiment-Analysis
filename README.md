@@ -39,18 +39,19 @@ This project integrates multiple datasets to provide a comprehensive analysis:
 Data Sources:
 
 •	Internal Feedback Dataset 
-o	~1,800 survey responses from museum visitors 
+    ~1,800 survey responses from museum visitors 
 
 •	Google Reviews 
-o	Public user reviews reflecting real visitor experiences 
+    Public user reviews reflecting real visitor experiences 
 
 •	TripAdvisor Reviews 
-o	External platform data for benchmarking sentiment 
+    External platform data for benchmarking sentiment 
 
 •	Benchmark Data 
-o	Manchester Museum 
-o	Barber Institute of Fine Arts 
-
+    Manchester Museum 
+    Barber Institute of Fine Arts 
+    
 •	Visitor Demographics & Global Data 
-o	Age, gender, and geographic distribution
+     Age, gender, and geographic distribution
+
 
