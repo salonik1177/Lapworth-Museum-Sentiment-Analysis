@@ -194,3 +194,11 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
 
 •	Occasional feedback suggests lack of engagement in certain exhibits.
 
+#
+### Benchmarking
+
+
+<p align="center"> 
+<img src="visuals/Sentiment score.png" width="450">
+</p>
+
