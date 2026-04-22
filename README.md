@@ -5,6 +5,7 @@ The Lapworth Museum of Geology is one of the oldest specialist geological museum
 The museum attracts a diverse audience, including students, families, researchers, and international visitors, and plays a key role in promoting geological education and public engagement.
 #
 ## Business Problem : 
+
 #
 Despite its strong reputation and high visitor satisfaction, the museum lacked a structured, data-driven approach to analyzing visitor feedback.
 
@@ -20,7 +21,9 @@ The key challenges were:
 
 The objective of this project was to transform unstructured feedback data into meaningful insights to support strategic decision-making.
 #
+
 ## Executive Summary :
+
 #
 This project analyzes visitor feedback from multiple sources, including internal museum surveys, Google Reviews, and TripAdvisor.
 
@@ -34,7 +37,9 @@ Key findings:
 
 The project provides actionable recommendations and proposes a sustainable feedback loop using Net Promoter Score (NPS) to support continuous improvement.
 #
+
 ## Data Structure :
+
 #
 This project integrates multiple datasets to provide a comprehensive analysis:
 
@@ -110,7 +115,9 @@ A structured data analytics approach was applied:
  
       Time-based trends 
 #
+
 ### Results :
+
 #
 This section presents the key findings derived from sentiment analysis, thematic exploration, and benchmarking of visitor feedback across multiple data sources, including internal museum surveys and external platforms such as Google Reviews and TripAdvisor.  
 
