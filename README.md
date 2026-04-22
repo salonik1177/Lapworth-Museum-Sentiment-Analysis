@@ -52,7 +52,8 @@ Data Sources:
 
 - Benchmark Data 
 
-    Manchester Museum 
+    Manchester Museum
+  
     Barber Institute of Fine Arts 
     
 -	Visitor Demographics & Global Data 
