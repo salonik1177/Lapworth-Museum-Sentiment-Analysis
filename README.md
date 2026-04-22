@@ -175,11 +175,11 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
 <table>
   <tr>
     <td align="center">
-      <img src="visuals/Lapworth User Feedback-Negative.png" width="430"/>
+      <img src="visuals/Lapworth User Feedback- Negative.png" width="430"/>
       <br><b>Lapworth Positive Feedback World Cloud</b>
     </td>
     <td align="center">
-      <img src="visuals/Google & TripAdvisor Reviews- Negative.png" width="430"/>
+      <img src="visuals/Google & TripAdvisor Reviews-Negative.png" width="430"/>
       <br><b>Google & TripAdvisor Positive Feedback World Cloud</b>
     </td>
   </tr>
