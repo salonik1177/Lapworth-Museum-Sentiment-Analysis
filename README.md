@@ -199,6 +199,6 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
 
 
 <p align="center">  
-<img src="visuals/Sentiment score.png" width="530">
+<img src="visuals/Sentiment score.png" width="490">
 </p>
 
