@@ -235,7 +235,7 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
 🔗 [Analytics Dashboard](https://public.tableau.com/views/LapworthMuseumDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <p align="center"> 
-<img src="Dashboard/Dashboard.png" width="650">
+<img src="Dashboard/Dashboard.png" width="700">
 </p>
 
 # 
