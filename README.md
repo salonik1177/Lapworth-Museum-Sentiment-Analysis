@@ -78,9 +78,9 @@ A structured data analytics approach was applied:
    
    •	Output:
    
-         Polarity score (-1 to +1)
+     Polarity score (-1 to +1)
    
-         Sentiment classification (Positive / Neutral / Negative)
+     Sentiment classification (Positive / Neutral / Negative)
 
 3. Thematic Analysis
 
@@ -100,13 +100,13 @@ A structured data analytics approach was applied:
    
    •	Interactive dashboards for:
 
-    o	Sentiment distribution 
+      Sentiment distribution 
 
-    o	Visitor demographics
+      Visitor demographics
    
-    o	Geographic insights
+      Geographic insights
  
-    o	Time-based trends 
+      Time-based trends 
 
 
 
