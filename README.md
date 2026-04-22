@@ -195,7 +195,8 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
 •	Occasional feedback suggests lack of engagement in certain exhibits.
 
 #
-### Benchmarking
+### 3. BENCHMARKING
+#
 
 
 <p align="center">  
