@@ -235,6 +235,25 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
 🔗 [Analytics Dashboard](https://public.tableau.com/views/LapworthMuseumDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <p align="center"> 
-<img src="Dashboard/Dashboard.png" width="550">
+<img src="Dashboard/Dashboard.png" width="600">
 </p>
+
+# 
+
+<b>Dashboard Insights :</b>
+#
+•	Higher engagement from female visitors, with 764 compared to 487 male visitors, indicating stronger resonance of exhibits with female audiences. 
+
+
+•	Visitor base is predominantly local, with over 1,300 UK visitors compared to a small number of international visitors, highlighting potential for expanding 
+global outreach. 
+
+
+•	Peak attendance occurs in Q1 and Q4, while Q2 and Q3 show significantly lower visitor numbers, indicating seasonal imbalance in engagement. 
+
+
+•	Strong appeal among younger and middle-aged groups (15–44), while engagement drops notably for ages 45–59 and 75+, suggesting opportunities for targeted programming. 
+
+
+•	Female visitors report more positive experiences, whereas male visitors tend to give more neutral ratings, indicating differences in satisfaction across genders. 
 
