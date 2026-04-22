@@ -227,4 +227,14 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
 •	Specialization is a key strength, with focused museums like Lapworth and Barber driving stronger visitor engagement.
 
 •	Opportunity to improve interaction, particularly through better staff engagement and more interactive experiences.
+#
+
+### DASHBOARD 
+#
+
+🔗 [Analytics Dashboard](https://public.tableau.com/views/LapworthMuseumDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<p align="center"> 
+<img src="Dashboard/Dashboard.png" width="550">
+</p>
 
