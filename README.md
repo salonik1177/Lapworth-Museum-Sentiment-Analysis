@@ -198,7 +198,7 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
 ### Benchmarking
 
 
-<p align="center"> 
+<p align="center">  
 <img src="visuals/Sentiment score.png" width="530">
 </p>
 
