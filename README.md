@@ -66,9 +66,48 @@ A structured data analytics approach was applied:
 
 1. Data Preprocessing
    
-     Removal of stopwords and irrelevant terms
+   •	Removal of stopwords and irrelevant terms
 
-     Lowercasing and text normalization
+   •	Lowercasing and text normalization
 
-     Lemmatization for consistency
+   •	Lemmatization for consistency
+
+2. Sentiment Analysis
+
+   •	Tool: TextBlob (Python)
+   
+   •	Output:
+   
+     •  Polarity score (-1 to +1)
+   
+     •  Sentiment classification (Positive / Neutral / Negative)
+
+3. Thematic Analysis
+
+   •	Word cloud generation
+
+   •	Identification of recurring themes in feedback
+
+4. Benchmarking Analysis
+
+   •	Comparison with similar museums 
+
+   •	Evaluation of relative sentiment performance 
+
+5. Data Visualization
+
+   •	Tool: Tableau
+   
+   •	Interactive dashboards for:
+
+    o	Sentiment distribution 
+
+    o	Visitor demographics
+   
+    o	Geographic insights
+ 
+    o	Time-based trends 
+
+
+
 
