@@ -119,4 +119,6 @@ The analysis aims to uncover overall visitor sentiment, identify recurring theme
 
 1. Lapworth Sentiment (Internal Data)
 
-   ![Lapworth Sentiment](visuals/lapworth_sentiment.png)
+  <p align="center"> 
+<img src="visuals/Lapworth Sentiment Percentage.png" width="550">
+</p>
