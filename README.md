@@ -78,9 +78,9 @@ A structured data analytics approach was applied:
    
    •	Output:
    
-     •  Polarity score (-1 to +1)
+      Polarity score (-1 to +1)
    
-     •  Sentiment classification (Positive / Neutral / Negative)
+      Sentiment classification (Positive / Neutral / Negative)
 
 3. Thematic Analysis
 
