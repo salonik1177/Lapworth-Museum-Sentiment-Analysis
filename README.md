@@ -108,6 +108,15 @@ A structured data analytics approach was applied:
  
       Time-based trends 
 
+## Results :
+
+This section presents the key findings derived from sentiment analysis, thematic exploration, and benchmarking of visitor feedback across multiple data sources, including internal museum surveys and external platforms such as Google Reviews and TripAdvisor.  
 
 
+The analysis aims to uncover overall visitor sentiment, identify recurring themes, and highlight areas of strength and improvement to support data-driven decision-making.
 
+### 1. SENTIMENT OVERVIEW
+
+1. Lapworth Sentiment (Internal Data)
+
+   ![Lapworth Sentiment](visuals/lapworth_sentiment.png)
